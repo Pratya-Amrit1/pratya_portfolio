@@ -1,4 +1,4 @@
-# 🚀 Pratya Amrit — Developer Portfolio
+# 🚀 Pratya Amrit — Developer Portfolio 2.O
 
 Welcome to my first ever portfolio website:  
 🌐 **Live Demo : []()**  
